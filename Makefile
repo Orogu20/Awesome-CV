@@ -1,4 +1,4 @@
-.PHONY: examples
+Create account by orogu.PHONY
 
 CC = lualatex
 EXAMPLES_DIR = examples
